@@ -19,7 +19,9 @@ $progress = 67;
   <div class="app-shell">
     <aside class="sidebar" id="sidebar">
       <div class="sidebar-brand">
-        <div class="brand-badge small">CSA</div>
+        <img src="assets/images/csa-logo.png"
+           alt="Colegio San Agustin – Biñan"
+           class="csa-logo">
         <div>
           <strong>E-Clearance</strong>
           <small>Student Portal</small>
